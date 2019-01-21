@@ -6,3 +6,5 @@ def ddg(jugador):
         if i == jugador:
             return (jugadores[i])
 print(ddg(jugador))
+
+print("hola")
